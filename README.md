@@ -86,7 +86,7 @@ Then lets start with this repository.
 
 #### 4️⃣ Now synchronize your forked repo:
  
- It will help you to keep your forked repo updated with the original repo
+ It will help you to keep your forked repo updated with the original repo.
  
  ``$ git checkout main`` 
  
