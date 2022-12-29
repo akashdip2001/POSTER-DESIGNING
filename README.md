@@ -19,9 +19,9 @@ Synapse is open to everyone and it marks the celebration of **Open Source.** It'
 
 # During Submission you must submit the readme file where you fill your details about your submission.
 
-# The dates and events for which you will make poster
+# The dates and events for which you will make poster.
 # This is a total list you can make as much poster as you can for below mentioned dates.
-# Follow are social media pages to see which type of poster we are making.
+# Follow our social media pages to see which type of poster we are making.
 - 12th jan :  National Youth Day
 - 15th jan : India army day
 - 23rd jan :  Netaji birth Day
