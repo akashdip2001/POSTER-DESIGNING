@@ -8,8 +8,37 @@
 
 :diamonds: Synapse is a month-long challenge. It happens every year in the month of January.
 Synapse is open to everyone and it marks the celebration of **Open Source.** It's the first Open Source event of AOT that encourages newbies to participate in Open Source and create their 1st meaningful PR.
-  
-  <h1 align="center"><img src='https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/octocat-wave-dribbble.gif'></h1>
+<h1 align="center"><img src='https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/octocat-wave-dribbble.gif'></h1>
+
+# Follow some guidelines for making poster for below mentioned events. The guidelines are
+- Download Pinterest app and search for minimalist posters
+- Use minimalist fonts (example  TT commons, inter, Montserrat,gilroy etc)search in  Google fonts also
+- Use relatable color theme  suppose for Christmas red (Santa's cloth) and dark blue(Christmas night) is very obvious 
+- Also use square frame for poster like instagram posts   because square frame fits everywhere
+- Minimalism is the most important thing
+
+# During Submission you must submit the readme file where you fill your details about your submission.
+
+# The dates and events for which you will make poster
+# This is a total list you can make as much poster as you can for below mentioned dates.
+# Follow are social media pages to see which type of poster we are making.
+- 12th jan :  National Youth Day
+- 15th jan : India army day
+- 23rd jan :  Netaji birth Day
+- 26th jan:  Republic day, saraswati puja.
+- 15th feb :International childhood cancer day.
+- 28th feb:  National science day
+- 2nd march: Employee appreciation day
+- 3rd march : wildlife day
+- 8th march: International Women’s day
+- 16th march: National Vaccination day
+- 7th April: World Health day
+- 1st may-  Labour day &  May day
+- 11th may- National Tech day
+- 2nd sunday of may : Mother's day
+- 2nd june- International sex workers day
+- 5th june- world environment day
+
 
 🏆 🏆 **Rewards :** 🏆🏆
 
