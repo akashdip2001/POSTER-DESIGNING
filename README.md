@@ -107,7 +107,7 @@ Then lets start with this repository.
 
 
 ``$ cd <cloned-folder>`` 
-``$ git remote add upstream https://github.com/scEce-Tech/POSTER-DESIGNING.git ``
+``$ git remote add upstream https://github.com/SC-ECE/POSTER-DESIGNING.git ``
 ******
 
 #### 4️⃣ Now synchronize your forked repo:
@@ -156,8 +156,8 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contribut
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/scEce-Tech/POSTER-DESIGNING/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=scEce-Tech/POSTER-DESIGNING" />
+			<a href="https://github.com/SC-ECE/POSTER-DESIGNING/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SC-ECE/POSTER-DESIGNING" />
 </a>
 		</td>
 	</tr>
