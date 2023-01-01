@@ -14,11 +14,12 @@ Synapse is open to everyone and it marks the celebration of **Open Source.** It'
 https://synapse1-0.vercel.app/
 
 # Follow some guidelines for making poster for below mentioned events. The guidelines are
-- Download Pinterest app and search for minimalist posters
-- Use minimalist fonts (example  TT commons, inter, Montserrat,gilroy etc)search in  Google fonts also
-- Use relatable color theme  suppose for Christmas red (Santa's cloth) and dark blue(Christmas night) is very obvious 
-- Also use square frame for poster like instagram posts   because square frame fits everywhere
-- Minimalism is the most important thing
+- Download Pinterest app and search for minimalist posters.
+- Use minimalist fonts (example  TT commons, inter, Montserrat,gilroy etc)search in  Google fonts also.
+- Use relatable color theme  suppose for Christmas red (Santa's cloth) and dark blue(Christmas night) is very obvious .
+- Also use square frame for poster like instagram posts   because square frame fits everywhere.
+- Minimalism is the most important thing.
+- You have to make a readme file and attach the ticket in your contributed folder.
 
 # During Submission you must submit the readme file where you fill your details about your submission.
 
